@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Javascript,ReactJs,Typescript<br>👯 I’m looking to collaborate on : Open Source Projects<br>🌱 I’m currently learning : Nextjs & Nodejs with MongoDB.<br>📫 How to reach me : vasukapil1894@gmail.com<br>⚡ Fun fact : I love playing chess and I am pretty good at it.
+🔭 I’m currently working on : Javascript,ReactJs,Typescript<br>👯 I’m looking to collaborate on : Open Source Projects<br>🌱 I’m currently learning : Nextjs & Nodejs with MongoDB.<br>📫 How to reach me : vasukapil2196@gmail.com<br>⚡ Fun fact : I love playing chess and I am pretty good at it.
 
 
 ## 🌐 Socials:
